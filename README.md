@@ -46,6 +46,11 @@ Durante o desenvolvimento deste projeto, pratiquei conceitos de programação or
 
 Também apliquei boas práticas de organização do código, como o uso de constantes para identificar os dados enviados entre telas.
 
+
 ## 📸 Telas do aplicativo
 
-Em breve: imagens da Splash Screen, tela da calculadora e tela de resultado.
+<p align="center">
+  <img src="screenshots/Tela%20de%20abertura%20%28Splash%20Screen%29.jpg" width="220" alt="Splash Screen"/>
+  <img src="screenshots/Entrada%20de%20peso%20e%20altura.jpg" width="220" alt="Calculadora de IMC"/>
+  <img src="screenshots/Exibi%C3%A7%C3%A3o%20do%20resultado.jpg" width="220" alt="Resultado do IMC"/>
+</p>

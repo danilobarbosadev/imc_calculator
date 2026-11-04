@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Corpo da balança com cantos arredondados -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M20,12 H76 Q84,12 84,20 V76 Q84,84 76,84 H20 Q12,84 12,76 V20 Q12,12 20,12 Z" />
+
+    <!-- Visor da balança -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M32,22 H64 Q68,22 68,26 V42 Q68,46 64,46 H32 Q28,46 28,42 V26 Q28,22 32,22 Z" />
+
+    <!-- Ponteiro do visor -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M48,36 L55,29" />
+
+    <!-- Marca central do visor -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M48,36 m-3,0 a3,3 0,1 0,6 0 a3,3 0,1 0,-6 0" />
+
+</vector>
